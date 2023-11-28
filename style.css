@@ -1,0 +1,22 @@
+/* h1{
+    color: blue;
+    background-color: orangered;
+}
+
+body{
+    color: black;
+    background-color: chartreuse;
+
+}
+button{
+    background-color : blue;
+} */
+
+.box {
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    margin: 5px;
+    text-align: center;
+    background-color: blueviolet;
+}
